@@ -10,3 +10,7 @@ Layout/ElseAlignment:
   Enabled: false
 Layout/EndAlignment:
   Enabled: false
+Layout/TrailingWhitespace:
+  Enabled: true
+Layout/TrailingEmptyLines:
+  Enabled: true
